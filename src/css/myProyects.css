@@ -1,0 +1,17 @@
+.proyect-card {
+  max-width: 300px;
+  background-color: #2d3339;
+  border-radius: 13px;
+  box-shadow: 7px 7px 12px -6px #000000;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.proyect-card-description {
+  min-height: 100px;
+}
+
+.card-img-border-radius {
+  border-start-start-radius: 13px;
+  border-start-end-radius: 13px;
+}

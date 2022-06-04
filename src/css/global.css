@@ -1,0 +1,23 @@
+body {
+  font-family: "Sunflower", sans-serif;
+}
+
+.background-color-primary {
+  background-color: #187a41;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.link-hover {
+  text-decoration: none;
+}
+
+.link-hover :hover {
+  text-decoration: underline;
+}
