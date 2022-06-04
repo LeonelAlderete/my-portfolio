@@ -192,10 +192,16 @@ export default function MyProyects() {
                 {/* Demo - Repositorio */}
                 <div className="text-center">
                   {/* GitHub */}
-                  <AiFillGithub
-                    className="cursor-pointer text-light mx-2"
-                    size={37}
-                  />
+                  <a
+                    href="https://github.com/LeonelAlderete/my-portfolio"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <AiFillGithub
+                      className="cursor-pointer text-light mx-2"
+                      size={37}
+                    />
+                  </a>
                 </div>
               </div>
             </div>
