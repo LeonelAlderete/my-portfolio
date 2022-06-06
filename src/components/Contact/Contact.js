@@ -16,7 +16,7 @@ export default function Contact() {
           {/* Linkedin */}
           <div className="mb-3">
             <a
-              href="https://www.linkedin.com/in/sa%C3%BAl-leonel-alderete-93b740224/"
+              href="https://www.linkedin.com/in/leonel-alderete/"
               className="ms-2 link-hover text-light"
               target="_blank"
               rel="noopener noreferrer"
